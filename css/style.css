@@ -1,0 +1,13 @@
+.carousel {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.slick-prev:before, .slick-next:before {
+  color: black;
+}
